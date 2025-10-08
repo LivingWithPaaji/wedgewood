@@ -1,4 +1,4 @@
-/* Mobile-first About Page */
+
 .about-page {
   background-color: #1a202c;
   color: #e2e8f0;
@@ -128,7 +128,6 @@
   line-height: 1.4;
 }
 
-/* Tablet Styles */
 @media screen and (min-width: 768px) {
   .about-page {
     padding: 3rem 1rem;
@@ -202,7 +201,6 @@
   }
 }
 
-/* Desktop Styles */
 @media screen and (min-width: 1024px) {
   .about-page {
     padding: 4rem 1rem;
