@@ -1,4 +1,4 @@
-/* Global Reset and Base Styles */
+
 * {
   margin: 0;
   padding: 0;
@@ -16,7 +16,6 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
-  /* Mobile-first Responsive Breakpoints */
   --mobile: 320px;
   --tablet: 768px;
   --desktop: 1024px;
