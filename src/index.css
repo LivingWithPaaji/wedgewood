@@ -100,7 +100,6 @@ input, select, textarea {
   font-size: 1rem;
 }
 
-/* Scrollbar styling */
 ::-webkit-scrollbar {
   width: 10px;
 }
